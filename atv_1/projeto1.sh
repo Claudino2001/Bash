@@ -1,8 +1,3 @@
-# Projeto de 05/03
-# Gabriel de Araujo Claudino
-# Arthur Sant'Anna de Carvalho Santos
-# Luca Torres Villela
-
 #!/bin/bash	
 #Shebang diz ao shell para executar via shell bash.
 
